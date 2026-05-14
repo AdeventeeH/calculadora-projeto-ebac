@@ -1,23 +1,23 @@
-# Calculadora Simples em Python
+# 🧮 Calculadora Simples em Python
 
 Uma calculadora simples desenvolvida em Python que realiza as quatro operações matemáticas básicas:
 
-* ➕ Adição
-* ➖ Subtração
-* ✖️ Multiplicação
-* ➗ Divisão
+- ➕ Adição
+- ➖ Subtração
+- ✖️ Multiplicação
+- ➗ Divisão
 
 O projeto também conta com:
 
-* Tratamento de erros para entradas inválidas
-* Proteção contra divisão por zero
-* Loop para realizar múltiplas operações sem reiniciar o programa
+- Tratamento de erros para entradas inválidas
+- Proteção contra divisão por zero
+- Loop para realizar múltiplas operações sem reiniciar o programa
 
 ---
 
 ## 📚 Tecnologias Utilizadas
 
-* Python
+- Python
 
 ---
 
@@ -26,13 +26,13 @@ O projeto também conta com:
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/AdeventeeH/calculadora-python.git
 ```
 
 ### 2️⃣ Acesse a pasta do projeto
 
 ```bash
-cd seu-repositorio
+cd calculadora-python
 ```
 
 ### 3️⃣ Execute o arquivo Python
@@ -86,14 +86,14 @@ Após finalizar uma operação, o usuário pode escolher continuar utilizando a 
 
 ## 🧠 Estrutura do Código
 
-| Função             | Descrição                                 |
-| ------------------ | ----------------------------------------- |
-| `obter_numero_1()` | Solicita o primeiro número                |
-| `obter_operacao()` | Solicita a operação matemática            |
-| `obter_numero_2()` | Solicita o segundo número                 |
-| `calcular()`       | Realiza o cálculo                         |
-| `continuar()`      | Pergunta se o usuário deseja continuar    |
-| `main()`           | Controla a execução principal do programa |
+| Função | Descrição |
+|---|---|
+| `obter_numero_1()` | Solicita o primeiro número |
+| `obter_operacao()` | Solicita a operação matemática |
+| `obter_numero_2()` | Solicita o segundo número |
+| `calcular()` | Realiza o cálculo |
+| `continuar()` | Pergunta se o usuário deseja continuar |
+| `main()` | Controla a execução principal do programa |
 
 ---
 
@@ -101,12 +101,12 @@ Após finalizar uma operação, o usuário pode escolher continuar utilizando a 
 
 Este projeto foi desenvolvido para praticar conceitos fundamentais de programação com Python:
 
-* Funções
-* Estruturas de repetição (`while`)
-* Estruturas condicionais (`if/elif/else`)
-* Tratamento de exceções (`try/except`)
-* Entrada e saída de dados
-* Organização de código
+- Funções
+- Estruturas de repetição (`while`)
+- Estruturas condicionais (`if/elif/else`)
+- Tratamento de exceções (`try/except`)
+- Entrada e saída de dados
+- Organização de código
 
 ---
 
@@ -126,10 +126,11 @@ Resultado: 5.0
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para utilizar, estudar e modificar o código.
+Este projeto está sob a licença MIT.  
+Sinta-se livre para utilizar, estudar e modificar o código.
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Lucas Adevente 🚀
+Desenvolvido por [Lucas Adevente](https://github.com/AdeventeeH) 🚀
